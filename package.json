@@ -1,5 +1,5 @@
 {
-  "name": "SimpleCoinToken",
+  "name": "Inaword-11",
   "version": "1.0.0",
   "description": "",
   "main": "truffle.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cromlehg/SimpleCoinToken.git"
+    "url": "git+https://github.com/cromlehg/Inaword-11.git"
   },
   "keywords": [
     "solidity",
@@ -36,7 +36,7 @@
   "author": "Alexander Strakh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cromlehg/SimpleCoinToken/issues"
+    "url": "https://github.com/cromlehg/Inaword-11/issues"
   },
-  "homepage": "https://github.com/cromlehg/SimpleCoinToken#readme"
+  "homepage": "https://github.com/cromlehg/Inaword-11#readme"
 }
